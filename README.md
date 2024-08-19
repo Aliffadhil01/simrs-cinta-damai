@@ -1,3 +1,6 @@
+## Sekilas Lalu
+Berawal dari kegelisahan, tidak tersediannya SIMRS yang gratis, flexible dalam penggunaaan, cloud base dan mudah digunakan. Atas dasar itu kami komunitas IT dirumah sakit tergerak untuk mengembangkan SIMRS CINTA DAMAI ini untuk bebas digunakan disemua rumah sakit.
+
 ## Powered By
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
