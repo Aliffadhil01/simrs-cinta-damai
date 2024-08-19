@@ -29,3 +29,5 @@ Semua praktisi IT dirumah sakit, kami undang untuk berkontribusi di SIMRS CINTA 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+VUE JS licensed under [MIT license](https://opensource.org/licenses/MIT) Copyright (c) 2013-present, Yuxi (Evan) You.
