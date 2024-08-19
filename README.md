@@ -23,7 +23,7 @@ Berawal dari kegelisahan, tidak tersediannya SIMRS yang gratis, flexible dalam p
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
 </p>
 
-## Konstributor
+## Kontributor
 Semua praktisi IT dirumah sakit, kami undang untuk berkontribusi di SIMRS CINTA DAMAI ini.
 
 ## License
